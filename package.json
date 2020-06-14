@@ -11,7 +11,7 @@
   "browserslist": [
     "last 1 Chrome versions"
   ],
-  "author": "Remy Sharp (https://remysharp.com)",
+  "author": "Blake",
   "license": "MIT",
   "dependencies": {
     "date-fns": "^2.11.1",
